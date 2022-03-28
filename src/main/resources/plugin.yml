@@ -1,0 +1,5 @@
+name: Lootbox
+author: awesomegero
+version: 1.0
+api-version: 1.18
+main: com.github.awesomegero.lootbox.LootboxPlugin
